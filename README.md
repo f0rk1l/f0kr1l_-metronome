@@ -1,6 +1,6 @@
 It's simple metronome app on python.
 
-Usage
+Usage:
 
 First, install the libraries you need to work.
 
